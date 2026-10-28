@@ -1,0 +1,26 @@
+NOVASITE — SITE WEB POUR GITHUB PAGES
+
+Ouvrez le site en double-cliquant sur index.html.
+
+Contenu du dossier :
+- index.html : contenu du site
+- styles.css : mise en page et animations
+- script.js : estimation des tarifs, formulaire et menu mobile
+- assets/favicon.svg : icône du site
+
+Offres affichées :
+- Site vitrine : 50 € au lancement
+- Site catalogue : 100 € au lancement
+- Sécurisation et modifications : 20 €/mois avec engagement de 12 mois (240 €/an)
+- Publicité ou annonce de vente : 10 € par annonce
+
+Le formulaire calcule une estimation et prépare un SMS au 07 87 45 87 76. Il ne sauvegarde pas les données et n’envoie pas le SMS sans action du client.
+
+PUBLICATION SUR GITHUB PAGES
+1. Décompressez l’archive ZIP.
+2. Ajoutez le contenu du dossier à la racine d’un dépôt GitHub : index.html, styles.css, script.js, LISEZ-MOI.txt et le dossier assets.
+3. Dans le dépôt, ouvrez Settings > Pages.
+4. Choisissez Deploy from a branch, puis la branche main et le dossier /(root), et cliquez sur Save.
+5. Revenez dans Settings > Pages pour consulter l’adresse de votre site.
+
+Le site publié est visible sur Internet ; le numéro de téléphone y sera donc public. Avec GitHub Free, le dépôt doit être public pour utiliser Pages.
